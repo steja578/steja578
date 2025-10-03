@@ -54,11 +54,25 @@
 
 ---
 
-##  Achievements  
+## 🏆 GitHub Achievements  
 
+### 📊 Contribution Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=steja578&theme=gruvbox&no-frame=true&margin-w=15&row=1&column=6"/>  
 </p>  
+
+---
+
+### 🎖️ Official GitHub Badges  
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark - Merged Pull Requests"/> 
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw - Closed an issue or PR within 5 min"/>  
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="80" title="Arctic Code Vault Contributor"/> 
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" title="Starstruck - Repo gained 16 stars"/>  
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="80" title="Galaxy Brain - Answered discussions"/>  
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO - Merged without review"/>  
+</p>
+
 
 ---
 
