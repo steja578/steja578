@@ -5,7 +5,7 @@
 
 ##  About Me  
 
-- 10+ years of experience designing and building **enterprise-grade applications** in **healthcare, finance, retail, and telecom**.  
+- Experience in designing and building **enterprise-grade applications** in **healthcare, finance, retail, and telecom**.  
 - Specialized in **Java, Spring Boot, React, Angular, Microservices, and Event-Driven Architectures (Kafka)**.  
 - Strong expertise in **Cloud (AWS & Azure)** and **DevOps automation**.  
 - Passionate about **clean architecture, automation, and building resilient systems** that scale with business needs.  
