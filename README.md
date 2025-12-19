@@ -1,4 +1,4 @@
-<h1 align="center"> Bharath Shiva Sai Teja M </h1>  
+<h1 align="center"> Tejj </h1>  
 <h3 align="center">Senior Full Stack Java Developer | Microservices Architect | Kafka | Cloud-Native Architect</h3>  
 
 ---
@@ -37,11 +37,27 @@
 
 ---
 
-##  Highlight Projects  
 
-- **Healthcare B2B Platform** 🏥 → Real-time order management & FDA-compliance dashboards.  
-- **Digital Banking Platform** 💳 → Secure account management & fraud detection with Spring Boot + Angular.  
-- **Retail E-Commerce Portal** 🛒 → Microservices + GraphQL APIs deployed on Azure Kubernetes.  
+# Projects Overview
+
+## Financial Domain
+- **Claims Management System**  
+  Handles claim intake, validation, adjudication workflows, and secure data access.
+
+- **Payments Processing Platform**  
+  Supports end-to-end payment flows including authorization, settlement, and reconciliation.
+
+- **Credit Card & Rewards System**  
+  Manages credit card accounts, transaction history, and rewards accrual and redemption.
+
+## Healthcare Domain
+- **Healthcare Claims Portal**  
+  Enables member enrollment, claims submission, and real-time claim status tracking.
+
+## E-Commerce Domain
+- **Retail E-Commerce Platform**  
+  Provides product catalog, cart, order management, and payment services using a microservices architecture.
+
 
 ---
 
